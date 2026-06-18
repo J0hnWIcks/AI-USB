@@ -5,6 +5,11 @@ A fully offline, portable AI toolkit that runs entirely from a USB drive without
 
 ---
 
+## 👤 Author
+Developed and maintained by **Blake Von Jett**.
+
+---
+
 ## 🚀 Quick Start
 
 ### 1. Initialize the Environment
