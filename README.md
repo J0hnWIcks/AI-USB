@@ -22,7 +22,6 @@ Download: llama-b9701-bin-win-cpu-x64.zip (16.4 MB)
 
 Placement: Extract the contents of this zip file (including llama-cli.exe and its supporting .dll files) directly into:
 
-Plaintext
 AI_USB\runtimes\llama.cpp\
 Step 2: Download the AI Models (GGUF)
 Download your preferred quantized linguistic models directly from Hugging Face:
@@ -33,7 +32,6 @@ Download your preferred quantized linguistic models directly from Hugging Face:
 
 Placement: Drop your downloaded .gguf files straight into:
 
-Plaintext
 AI_USB\runtimes\llama.cpp\models\
 🛠️ Execution
 Once your runtimes and models are dropped into place:
