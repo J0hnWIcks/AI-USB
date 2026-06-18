@@ -97,6 +97,10 @@ Welcome! This USB stick contains a fully offline AI toolkit
 designed for writing, studying, and note organization.
 No software installs on the host PC. Just plug in and go!
 
+CREDITS
+-------
+Developed and maintained by **Blake Von Jett**.
+
 FOLDER LAYOUT
 -------------
 AI_USB\
