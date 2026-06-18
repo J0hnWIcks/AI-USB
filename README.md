@@ -1,3 +1,4 @@
+Markdown
 # 📂 AI_USB
 
 A fully offline, portable AI toolkit that runs entirely from a USB drive without installing any software on the host computer. It is designed to provide a secure, localized environment for writing, studying, note organization, and automated workflow processing.
@@ -11,8 +12,7 @@ Copy your `AI_USB_setup.ps1` script to the root directory of your USB drive (e.g
 
 ```powershell
 PowerShell -NoProfile -ExecutionPolicy Bypass -File "E:\AI_USB_setup.ps1"
-
-⚡ Note: This setup script automatically handles the architecture build. It carves out your directory skeletons (notes/, study/, runtimes/, etc.) and dyanmically compiles your execution wrappers (Run_Toolkit.bat) and system documentation (HELP.txt) on the fly.
+⚡ Note: This setup script automatically handles the architecture build. It carves out your directory skeletons (notes/, study/, runtimes/, etc.) and dynamically compiles your execution wrappers (Run_Toolkit.bat) and system documentation (HELP.txt) on the fly.
 
 🧠 Adding the AI Programs & Models
 Because this repository remains completely lightweight, it does not bundle heavy runtime binaries or multi-gigabyte model weights. Follow these quick steps to fully arm your toolkit:
